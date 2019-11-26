@@ -1,4 +1,4 @@
-Name of Quantlet: PAMoutsam
+Name of Quantlet: CPAoutsample
 
 Published in: submitted to N/A 
 
